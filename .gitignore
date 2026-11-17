@@ -1,0 +1,10 @@
+/.venv/
+/.west/
+/.tools/
+/deps/
+/build/
+/.workspace.lock
+__pycache__/
+*.pyc
+SESSION_NOTES.md
+AGENTS.md

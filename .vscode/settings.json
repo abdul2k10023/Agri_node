@@ -1,0 +1,10 @@
+{
+    "git.autoRepositoryDetection": "subFolders",
+    "git.repositoryScanIgnoredFolders": [
+        "node_modules",
+        "deps",
+        ".venv",
+        ".tools",
+        "build"
+    ]
+}
